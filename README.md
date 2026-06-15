@@ -12,7 +12,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
-https://colab.research.google.com/drive/1z5JKUxxsKglJy-7gXjsWid8sA0BHYcKI?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z5JKUxxsKglJy-7gXjsWid8sA0BHYcKI?usp=sharing)
 
 O:
 
